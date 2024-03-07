@@ -1,0 +1,47 @@
+#contenedor{
+    background-color: chocolate;
+    width: 800px;
+    height: 2000px;
+    margin: auto;
+}
+#caja1{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50px;
+}
+#caja2{
+    background-color: darkorchid;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 100px;
+    top: 200px;
+    display: inline-block;
+    display: ;
+}
+#caja3{
+    background-color: hotpink;
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    top: 250px;
+    display: inline-block;
+}
+#caja4{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    left: 200px;
+}
+#caja1-1{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    transform: rotate(45deg);
+}
